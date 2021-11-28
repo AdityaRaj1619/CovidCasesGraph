@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ARAdevop
 - 👀 I’m interested in .competetive programming, web development,etc..
+- - I know c, java python , and dsa in java , and im also a front end developer and familiar with reactjs also ...
 - 🌱 I’m currently learning .btech.(2nd year cse branch)..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me adityarajawasthi1602@gmail.com
 
 <!---
